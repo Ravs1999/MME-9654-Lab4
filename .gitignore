@@ -1,0 +1,16 @@
+# PlatformIO
+.pio
+.pioenvs
+.piolibdeps
+
+# VSCode
+.vscode
+
+# ESP-IDF
+sdkconfig*
+build
+managed_components
+dependencies.lock
+
+# Mac OS
+.DS_Store
